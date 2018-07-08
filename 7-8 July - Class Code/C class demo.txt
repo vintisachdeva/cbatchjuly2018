@@ -1,0 +1,56 @@
+Binary Form --> 0,1
+
+A
+
+
+Language --> C, C++, Java, etc --> Conversion --> Binary Form
+
+Translators --> Compiler , Interpreter, Assembler
+
+
+--> Error Detection
+--> Code conversion
+
+
+Compiler --> i will read all the data once and then convert it once
+		-->at the end show all the errors at the end with the required 		info
+
+		line number, error type
+
+
+interpreter --> i will read the code and convert the code line by line
+		error line number, error type 
+
+assembler --> neither --> c, c++, java, python, advance lang.
+		assembly language
+
+IDE --> Integrated Development Enviornment
+
+
+C Language --> root --> c/c++ (libraries)
+
+
+--> statement print in C Language --> Hello C 
+
+Header Files                #include<stdio.h>
+
+			--> predefined functions 
+
+Predefined code  --> end .h
+
+--> stdio.h  ---> basic features for input and output
+
+--> std  --> Standard
+--> i    --> input
+--> o    --> output
+
+
+#include<>      --> preprocessor directives
+
+//predefined function --> entry point for your program
+
+void main(){
+
+
+
+}
